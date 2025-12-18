@@ -1,0 +1,5 @@
+{
+  "name": "Forefront Regulatory Alerts",
+  "description": "A regulatory alert system MVP aggregating FDA, EPA, and NIST updates with intelligent 'Traffic Light' prioritization for recalls, guidance, and general news.",
+  "requestFramePermissions": []
+}
